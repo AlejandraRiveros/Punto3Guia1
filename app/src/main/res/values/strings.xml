@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EcuacionPunto3</string>
+    <string name="tvTitulo"> Ecuaciones Formula cuadratica</string>
+    <string name="tvEnunciado">Escriba solo numeros, puede usar signos (+ -)</string>
+    <string name="etNumberA">Ingrese el primer numero a</string>
+    <string name="etNumberB">Ingrese el segundo numero b</string>
+    <string name="etNumberC">Ingrese el tercer numero c</string>
+    <string name="btnCalcular">Factorizar</string>
+    <string name="tvResultado"></string>
+    <string name="tvX">X´2</string>
+    <string name="tvX2">x</string>
+
+
+</resources>
